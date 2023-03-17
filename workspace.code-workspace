@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Programación HTML"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\JavaScript"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "App Historia clínica pacientes"
+	}
+}
